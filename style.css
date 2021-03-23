@@ -1,0 +1,48 @@
+body {
+    background-color: #ff6600  !important;
+    font-size: 20px;
+	font-family: sans-serif;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    color: black !important;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#websiteTitle {
+    text-align: center;
+}
+
+div#test {
+    border-radius: 50px;
+    padding: 10px 40px 40px 40px;
+    background-color:#ff6600 ;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+
+}
+
+#submitbtn {
+    border-radius: 50px;
+}
+
+#spinwheel {
+    color: black;
+    display: block;
+    position: fixed;
+    top: 50%;
+    right: 50%;
+}
+
+#mapareaeurope, iframe {
+    width: 1400px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    border-style: none;
+}
