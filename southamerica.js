@@ -3,40 +3,40 @@
     // this is a multidimensional array with 4 inner array elements with 5 elements inside them
     var questions = [
       {
-        question: "Which country in the Mediterranean speaks both Greek and Turkish? Hint: it borders Asia and Africa", 
-            a: "Sicily",
-            b: "Cyprus",
-            c: "Malta",
+        question: "Which country is the richest in South America?", 
+            a: "Venezuela",
+            b: "Chile",
+            c: "Brazil",
             answer: "B"
 },
     {
-        question: "What European country has the strongest army in the continent?",
-            a: "Switzerland",
-            b: "Italy",
-            c: "Russia",
+        question: "Which country in South America is extremely long and doesn't cover a wide scale of land mass?",
+            a: "Honduras",
+            b: "El Salvador",
+            c: "Chile",
             answer: "C"
 },
 
     {
-        question: "Which European country is known for its history of trolls, harsh snow filled winters, fjords and mountains?",
-            a: "Romania",
-            b: "Norway",
-            c: "Iceland",
-            answer: "B"
+        question: "Which country shares a large border with Nicaragua?",
+            a: "Honduras",
+            b: "El Salvador",
+            c: "Belize",
+            answer: "A"
 },
 
     {
-        question: "Which country has the most oppurtunity in relation to jobs in the technology field?",
-            a: "USA",
-            b: "Sweden",
-            c: "Canada",
+        question: "Which piece of land do the British own in South America?",
+            a: "Falkland Islands",
+            b: "Belize",
+            c: "Honduras",
             answer: "A"
         },
     {
-       question: "Which city in the UK has the highest population?",
-            a: "Edinburgh",
-            b: "Glasgow",
-            c: "London",
+       question: "Which country in South America speaks a dialect of Dutch?",
+            a: "Nicaragua",
+            b: "Belize",
+            c: "Suriname",
             answer: "C"
         
         },

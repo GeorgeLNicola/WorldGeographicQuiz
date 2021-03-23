@@ -3,44 +3,44 @@
     // this is a multidimensional array with 4 inner array elements with 5 elements inside them
     var questions = [
       {
-        question: "Which country in the Mediterranean speaks both Greek and Turkish? Hint: it borders Asia and Africa", 
-            a: "Sicily",
-            b: "Cyprus",
-            c: "Malta",
-            answer: "B"
-},
-    {
-        question: "What European country has the strongest army in the continent?",
-            a: "Switzerland",
-            b: "Italy",
-            c: "Russia",
-            answer: "C"
-},
-
-    {
-        question: "Which European country is known for its history of trolls, harsh snow filled winters, fjords and mountains?",
-            a: "Romania",
-            b: "Norway",
-            c: "Iceland",
-            answer: "B"
-},
-
-    {
-        question: "Which country has the most oppurtunity in relation to jobs in the technology field?",
-            a: "USA",
-            b: "Sweden",
-            c: "Canada",
+        question: "Which city is Australia's Capital?", 
+            a: "Canberra",
+            b: "Perth",
+            c: "Sydney",
             answer: "A"
-        },
+},
     {
-       question: "Which city in the UK has the highest population?",
-            a: "Edinburgh",
-            b: "Glasgow",
-            c: "London",
-            answer: "C"
-        
-        },
-            
+        question: "Which country has freedom of movement with Australia",
+            a: "Japan",
+            b: "New Zealand",
+            c: "Thailand",
+            answer: "B"
+},
+
+    {
+        question: "In which month of the year is Australia Day?",
+            a: "January 26th",
+            b: "March 12th",
+            c: "December 18th",
+            answer: "A"
+},
+
+    {
+        question: "Which country has more sheep than people?", 
+            a: "Fiji",
+            b: "New Zealand",
+            c: "Hawaii",
+            answer: "B"
+    },
+
+    {
+        question: "Which city is the capital of New Zealand?",
+            a: "Wellington",
+            b: "Auckland",
+            c: "Dunedin",
+            answer: "A"
+    },
+
       ];
     // this get function is short for the getElementById function  
     function get(x){

@@ -3,44 +3,44 @@
     // this is a multidimensional array with 4 inner array elements with 5 elements inside them
     var questions = [
       {
-        question: "Which country in the Mediterranean speaks both Greek and Turkish? Hint: it borders Asia and Africa", 
-            a: "Sicily",
-            b: "Cyprus",
-            c: "Malta",
-            answer: "B"
-},
-    {
-        question: "What European country has the strongest army in the continent?",
-            a: "Switzerland",
-            b: "Italy",
-            c: "Russia",
+        question: "Is Antarctica at the North Pole or South Pole?", 
+            a: "North",
+            b: "West",
+            c: "South",
             answer: "C"
 },
-
     {
-        question: "Which European country is known for its history of trolls, harsh snow filled winters, fjords and mountains?",
-            a: "Romania",
-            b: "Norway",
-            c: "Iceland",
-            answer: "B"
-},
-
-    {
-        question: "Which country has the most oppurtunity in relation to jobs in the technology field?",
-            a: "USA",
-            b: "Sweden",
-            c: "Canada",
+        question: "Antarctica has the worlds largest?",
+            a: "Desert",
+            b: "Volcano",
+            c: "Mountains",
             answer: "A"
-        },
+},
+
     {
-       question: "Which city in the UK has the highest population?",
-            a: "Edinburgh",
-            b: "Glasgow",
-            c: "London",
-            answer: "C"
-        
-        },
-            
+        question: "Antarctica is the worlds coldest continent, it is also, the worlds?",
+            a: "Foggiest",
+            b: "Windiest",
+            c: "Further away",
+            answer: "B"
+},
+
+    {
+        question: "Has Antarctica always been cold or another climate at one point in time?", 
+            a: "Tropical",
+            b: "Thick Ice (as it is now)",
+            c: "Thinner Ice",
+            answer: "A"
+    },
+
+    {
+        question: "How big is the largest land animal in Antarctica?",
+            a: "13km long",
+            b: "13mm long",
+            c: "13cm long",
+            answer: "B"
+    },
+
       ];
     // this get function is short for the getElementById function  
     function get(x){

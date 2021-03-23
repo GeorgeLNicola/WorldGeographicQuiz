@@ -3,44 +3,44 @@
     // this is a multidimensional array with 4 inner array elements with 5 elements inside them
     var questions = [
       {
-        question: "Which country in the Mediterranean speaks both Greek and Turkish? Hint: it borders Asia and Africa", 
-            a: "Sicily",
-            b: "Cyprus",
-            c: "Malta",
-            answer: "B"
+        question: "Which country in Africa has the largest GDP?", 
+            a: "Nigeria",
+            b: "Egypt",
+            c: "Chad",
+            answer: "A"
 },
     {
-        question: "What European country has the strongest army in the continent?",
-            a: "Switzerland",
-            b: "Italy",
-            c: "Russia",
-            answer: "C"
+        question: "What is the capital Namibia?",
+            a: "Walvis Bay",
+            b: "Windhoek",
+            c: "Cape Town",
+            answer: "B"
 },
 
     {
-        question: "Which European country is known for its history of trolls, harsh snow filled winters, fjords and mountains?",
+        question: "In what African country is Mount Kilimanjaro?",
             a: "Romania",
             b: "Norway",
-            c: "Iceland",
-            answer: "B"
+            c: "Tanzania",
+            answer: "C"
 },
 
     {
-        question: "Which country has the most oppurtunity in relation to jobs in the technology field?",
-            a: "USA",
-            b: "Sweden",
-            c: "Canada",
-            answer: "A"
-        },
+        question: "Which African country has the largest military?", 
+            a: "Nigeria",
+            b: "Egypt",
+            c: "Morocco",
+            answer: "B"
+    },
+
     {
-       question: "Which city in the UK has the highest population?",
-            a: "Edinburgh",
-            b: "Glasgow",
-            c: "London",
-            answer: "C"
-        
-        },
-            
+        question: "Which African country has the most software engineers?",
+            a: "Nigeria",
+            b: "Ghana",
+            c: "Somalia",
+            answer: "A"
+    },
+
       ];
     // this get function is short for the getElementById function  
     function get(x){

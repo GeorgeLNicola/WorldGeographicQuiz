@@ -3,44 +3,44 @@
     // this is a multidimensional array with 4 inner array elements with 5 elements inside them
     var questions = [
       {
-        question: "Which country in the Mediterranean speaks both Greek and Turkish? Hint: it borders Asia and Africa", 
-            a: "Sicily",
-            b: "Cyprus",
-            c: "Malta",
-            answer: "B"
-},
-    {
-        question: "What European country has the strongest army in the continent?",
-            a: "Switzerland",
-            b: "Italy",
-            c: "Russia",
-            answer: "C"
-},
-
-    {
-        question: "Which European country is known for its history of trolls, harsh snow filled winters, fjords and mountains?",
-            a: "Romania",
-            b: "Norway",
-            c: "Iceland",
-            answer: "B"
-},
-
-    {
-        question: "Which country has the most oppurtunity in relation to jobs in the technology field?",
-            a: "USA",
-            b: "Sweden",
-            c: "Canada",
+        question: "How many people live in Asia?", 
+            a: "4.5 Billion",
+            b: "3.5 Billion",
+            c: "100 Million",
             answer: "A"
-        },
+},
     {
-       question: "Which city in the UK has the highest population?",
-            a: "Edinburgh",
-            b: "Glasgow",
-            c: "London",
+        question: "Which country is Asia's richest country?",
+            a: "China",
+            b: "Japan",
+            c: "Thailand",
             answer: "C"
-        
-        },
-            
+},
+
+    {
+        question: "Which country is extremely technologically advanced in Asia?",
+            a: "Japan",
+            b: "Thailand",
+            c: "Vietnam",
+            answer: "A"
+},
+
+    {
+        question: "Which country in Asia eats KFC at Christmas as a tradition?", 
+            a: "Japan",
+            b: "Philippines",
+            c: "Singapore",
+            answer: "A"
+    },
+
+    {
+        question: "Which country in Asia has the Phi Phi Islands?",
+            a: "Thailand",
+            b: "Myanmar (Burma)",
+            c: "Taiwan",
+            answer: "A"
+    },
+
       ];
     // this get function is short for the getElementById function  
     function get(x){
