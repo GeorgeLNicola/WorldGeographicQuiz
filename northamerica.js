@@ -26,7 +26,7 @@
 },
 
     {
-        question: "Which country has the most oppurtunity in relation to jobs in the technology field?",
+        question: "Which country has the most opportunity in relation to jobs in the technology field?",
             a: "USA",
             b: "Canada",
             c: "Mexico",
@@ -71,7 +71,7 @@
       test.innerHTML += "<label> <input type='radio' name='choices' value='A'> "+chA+"</label><br>";
       test.innerHTML += "<label> <input type='radio' name='choices' value='B'> "+chB+"</label><br>";
       test.innerHTML += "<label> <input type='radio' name='choices' value='C'> "+chC+"</label><br><br>";
-      test.innerHTML += "<button id='submitbtn' onclick='checkAnswer()'>Submit Answer</button>";
+      test.innerHTML += "<button type='button' class='btn btn-secondary btn-lg' id='submitbtn' onclick='checkAnswer()'>Submit Answer</button>";
     }
     function checkAnswer(){
       // use getElementsByName because we have an array which it will loop through
